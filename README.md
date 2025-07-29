@@ -20,3 +20,4 @@
 - **XAI** aims to make AI models transparent and trustworthy to human users.
 - **XRL** is a subdomain of XAI focused on explaining why RL agents act the way they do over time.
 
+- **XTS** is a domain of explanining focus on time series.
